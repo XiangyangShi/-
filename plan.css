@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+}
+.detail{
+    font-weight: normal;
+}
+table{
+    border-collapse: collapse;
+}
+.schedule{
+    border: 1px solid;
+}
+.schedule th,td{
+    border: 1px solid;
+}
+a{
+    font-style: italic;
+    font-weight: bold;
+}
