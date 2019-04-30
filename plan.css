@@ -14,6 +14,8 @@ table{
     border: 1px solid;
 }
 a{
-    font-style: italic;
     font-weight: bold;
+}
+.booked{
+    color: dodgerblue;
 }
